@@ -24,7 +24,7 @@ Some modular arithmetic
 
 4. Polynomials
 
-   For the polynomial xˆ3 - xˆ2 + 4x - 12
+   For the polynomial ![polinomial](./polinomial.png)
 
    Find a the positive root ? **_x_**
 
@@ -39,3 +39,7 @@ Have you seen any applications of zero knowledge proofs other than with a blockc
 What is to you, the most important feature of zkp technology ?
 
 Think of some use cases of zero knowledge proofs that you would like to see developed.
+
+```Tex
+x^{3}-x^{2}+4x-12
+```
