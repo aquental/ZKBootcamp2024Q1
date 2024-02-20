@@ -24,7 +24,7 @@ Some modular arithmetic
 
 4. Polynomials
 
-   For the polynomial ![polinomial](./polinomial.png)
+   For the polynomial $x^{3}-x^{2}+4x-12$
 
    Find a the positive root ? **_x_**
 
@@ -40,6 +40,6 @@ What is to you, the most important feature of zkp technology ?
 
 Think of some use cases of zero knowledge proofs that you would like to see developed.
 
-```Tex
+$$
 x^{3}-x^{2}+4x-12
-```
+$$
