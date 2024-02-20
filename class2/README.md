@@ -101,21 +101,21 @@ def main(u32[8] root, private u32[8] leaf, private bool[DEPTH] directionSelector
 
 # **_Homework Maths_**
 
-1. Modular arithmetic - you just need to find examples, you don't need to prove anything.
+1.  Modular arithmetic - you just need to find examples, you don't need to prove anything.
 
-a. Is it true that all odd squares are ≡ 1 (mod 8) ?
-
-b) what about even squares (mod 8) ?
+- Is it true that all odd squares are ≡ 1 (mod 8) ?
+  > yes : [Prove that odd perfect square is congruent to 1 modulo 8](https://math.stackexchange.com/questions/268402/prove-that-odd-perfect-square-is-congruent-to-1-modulo-8#:~:text=Since%20every%20odd%20integer%20is,squared%20is%201%20mod%208.)
+- what about even squares (mod 8) ?
+  > yes : [square modulo 8](https://proofwiki.org/wiki/Square_Modulo_8)
 
 1. What do you understand by
 
-a) O(n)
-**linear**
-
-b) O(1)
-**constant time**
-
-c) O(log n)
-**logaritmic time**
+- O(n):
+  > **linear time** [O(n)](<https://en.wikipedia.org/wiki/O(n)>)
+- O(1):
+  > **constant time** [O(1)](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
+- O(log n):
+  > **logaritmic time** [O(log n)](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
 
 3. For a proof size, which of these would you want ?
+   > _O(1)_ **constant time**
