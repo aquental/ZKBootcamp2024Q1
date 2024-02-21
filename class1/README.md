@@ -1,4 +1,9 @@
-**Home work** for _class 1_ (Feb 19)
+# Class 1 - Feb 19
+
+[pdf file](./Lesson1.pdf)
+---
+
+# **Home work** for _class 1_
 
 ## Maths Introduction
 
