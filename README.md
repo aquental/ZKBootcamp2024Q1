@@ -2,11 +2,11 @@
 
 Encode Club - ZK Bootcamp 2024 Q1
 
-> ##### [Hacker pack](https://encodeclub.notion.site/ZK-Bootcamp-Q1-2024-a9d42aad8f114a6b9b4cac4fdf128b25)
+> ###### [Hacker pack](https://encodeclub.notion.site/ZK-Bootcamp-Q1-2024-a9d42aad8f114a6b9b4cac4fdf128b25)
 >
-> ##### [Discord](https://discord.gg/encodeclub)
+> ###### [Discord](https://discord.gg/encodeclub)
 >
-> ##### [Slido](https://app.sli.do/event/rkqwP9ciCE7QZQRop64jxX/live/questions)
+> ###### [Slido](https://app.sli.do/event/rkqwP9ciCE7QZQRop64jxX/live/questions)
 
 ## ![ZK](./img/ZK_encode_logo.jpg)
 
@@ -17,3 +17,5 @@ Encode Club - ZK Bootcamp 2024 Q1
 [_Meek Msaki_](https://www.linkedin.com/in/msaki/) _assitant_
 
 [_Fox Reymann_](https://www.linkedin.com/in/foxreymann/) _assitant_
+
+## [Encode Club - ZK Bootcamp](https://www.encode.club/zk-bootcamp)
