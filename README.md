@@ -41,9 +41,9 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 > #### [Feb 26 - Starknet / Rust Continued](https://youtu.be/VUQ-zteaphk)
 >
-> #### [Feb 27 - DeFi / Aztec]() !!
+> #### [Feb 27 - DeFi / Aztec](https://youtu.be/6sYV7yOd0EA)
 >
-> #### [Feb 28 - Noir]()
+> #### [Feb 28 - Noir]() !!
 >
 > #### [Feb 29 - MINA]()
 
