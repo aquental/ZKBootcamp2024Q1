@@ -85,3 +85,6 @@ Encode Club - ZK Bootcamp 2024 Q1
 <summary>Project week 🔳</summary>
 25/03/2024 → 28/03/2024
 </details>
+
+---
+### [HackMd - Answers](https://hackmd.io/@Extropy/Q124ZKPAnswers)
