@@ -1,5 +1,7 @@
 # Class 6 - Feb 27
 
+[Lesson](./Lesson6.pdf)
+
 [Homework](./Homework6.pdf)
 
 ---

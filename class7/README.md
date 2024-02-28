@@ -2,9 +2,7 @@
 
 [Lesson](./Lesson7.pdf)
 
-<!--
-[Homework](./Homework5.pdf)
--->
+[Homework](./Homework7.pdf)
 ---
 
 # **_Homework 7_**
