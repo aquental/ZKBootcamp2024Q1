@@ -41,3 +41,5 @@ Where n is the number of the homework you are doing, e.g.
 ```Script
 zustlings homework 4
 ```
+---
+### [HackMd - Lesson 4 Answers](https://hackmd.io/@Extropy/Q124ZKPAnswers)
