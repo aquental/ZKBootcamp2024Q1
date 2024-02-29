@@ -5,6 +5,8 @@
 [Homework 8](./Homework8.pdf)
 
 ---
+[zkApp-cli Github repo](https://github.com/o1-labs/zkapp-cli/)
+
 ```Script
 nvm use v21.6.1
 npm install -g zkapp-cli
@@ -62,3 +64,5 @@ Tests:       2 passed, 2 total
 Snapshots:   0 total
 Time:        33.46 s
 ```
+
+[sudoku.ts](class8/sudoku/src/sudoku.ts)
