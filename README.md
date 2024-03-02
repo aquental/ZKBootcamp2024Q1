@@ -37,7 +37,7 @@ Encode Club - ZK Bootcamp 2024 Q1
  </details>
 
 <details>
-<summary>Second week 🔳</summary>
+<summary>Second week ✔️</summary>
 
 > #### [Feb 26 - Starknet / Rust Continued](https://youtu.be/VUQ-zteaphk)
 >
@@ -45,7 +45,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 >
 > #### [Feb 28 - Noir](https://youtu.be/HeUVqmIJX70)
 >
-> #### [Feb 29 - MINA]() <-
+> #### [Feb 29 - MINA](https://youtu.be/xFjZUbVMmjs)
 
 </details>
 
