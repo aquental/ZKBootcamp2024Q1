@@ -27,13 +27,13 @@ Encode Club - ZK Bootcamp 2024 Q1
 <details>
 <summary>First week ✔️</summary>
  
- > #### [Feb 19 - Overview / Maths & Cryptography Introduction](https://youtu.be/wMt5hwslFDg)
+ > #### [Feb 19](./class1/README.md) - [Overview / Maths & Cryptography Introduction](https://youtu.be/wMt5hwslFDg)
  >
- > #### [Feb 20 - ZKP Theory / Zokrates](https://youtu.be/HraLxOm3nA4)
+ > #### [Feb 20](./class2/README.md) - [ZKP Theory / Zokrates](https://youtu.be/HraLxOm3nA4)
  >
- > #### [Feb 21 - Use Cases of ZKPs / L2](https://youtu.be/lm2RyF-5GO8)
+ > #### [Feb 21](./class3/README.md) - [Use Cases of ZKPs / L2](https://youtu.be/lm2RyF-5GO8)
  >
- > #### [Feb 22 - Introduction to Starknet / Cairo](https://youtu.be/ioAkqbFzOGA)
+ > #### [Feb 22](./class4/README.md) - [Introduction to Starknet / Cairo](https://youtu.be/ioAkqbFzOGA)
  </details>
 
 <details>
