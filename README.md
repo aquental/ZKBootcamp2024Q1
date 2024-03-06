@@ -54,9 +54,9 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 > #### [Mar 04 - MINA / zkApps](https://youtu.be/rJejHRNc1BI)
 >
-> #### [Mar 05 - zkEVM Solutions]()
+> #### [Mar 05 - zkEVM Solutions](https://youtu.be/gIu-mzV8D_0)
 >
-> #### [Mar 05 - Risc Zero / Circom]()
+> #### [Mar 06 - Risc Zero / Circom]()
 >
 > #### [Mar 07 - zkSNARKS Theory]()
 
