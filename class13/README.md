@@ -2,6 +2,8 @@
 
 [Lesson](./Lesson13.pdf)
 
+### ![ZK Sessions](./img/zkwb.png)[ZK Whiteborad Sessions](https://zkhack.dev/whiteboard/)
+
 [Homework](./Homework13.pdf)
 
 ---
