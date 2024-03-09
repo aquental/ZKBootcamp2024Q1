@@ -58,7 +58,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 >
 > #### [Mar 06 - Risc Zero / Circom](https://youtu.be/8FECFLp0Kbc)
 >
-> #### [Mar 07 - zkSNARKS Theory]()
+> #### [Mar 07 - zkSNARKS Theory](https://youtu.be/xcxzo92e3sQ)
 
 </details>
 
