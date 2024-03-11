@@ -2,6 +2,8 @@
 
 [Lesson](./Lesson12.pdf)
 
+### [zkProof](https://zkproof.org/)
+
 [Homework](./Homework12.pdf)
 
 ---
