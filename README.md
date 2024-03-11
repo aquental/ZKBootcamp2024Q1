@@ -50,7 +50,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 </details>
 
 <details>
-<summary>Third week 🔳</summary>
+<summary>Third week ✔️</summary>
 
 > #### [Mar 04 - MINA / zkApps](https://youtu.be/rJejHRNc1BI)
 >
@@ -85,5 +85,3 @@ Encode Club - ZK Bootcamp 2024 Q1
 <summary>Project week 🔳</summary>
 25/03/2024 → 28/03/2024
 </details>
-
-
