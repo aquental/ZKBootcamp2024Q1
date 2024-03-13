@@ -67,7 +67,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 > #### [Mar 11 - zkML / PLONK](https://youtu.be/qaAN51IxyQk)
 >
-> #### [Mar 12 - STARK Theory]()
+> #### [Mar 12 - STARK Theory](https://youtu.be/YQUpmdRFq1w)
 >
 > #### [Mar 13 - Cryptographic alternatives]()
 >
