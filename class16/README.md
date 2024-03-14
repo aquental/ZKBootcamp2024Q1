@@ -2,6 +2,8 @@
 
 [Lesson](./Lesson16.pdf)
 
+[Extra](./Lesson16Extra.pdf)
+
 [Homework](./Homework16.pdf)
 
 ---
