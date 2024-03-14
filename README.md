@@ -63,7 +63,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 </details>
 
 <details>
-<summary>Fourth week </summary>
+<summary>Fourth week ✔️</summary>
 
 > #### [Mar 11 - zkML / PLONK](https://youtu.be/qaAN51IxyQk)
 >
