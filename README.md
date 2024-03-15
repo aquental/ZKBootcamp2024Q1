@@ -71,7 +71,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 >
 > #### [Mar 13 - Cryptographic alternatives](https://youtu.be/_X2M4gPDKSg)
 >
-> #### [Mar 14 - Research and review]()
+> #### [Mar 14 - Research and review](https://youtu.be/ZgJiYxHImO4)
 
 </details>
 </details>
