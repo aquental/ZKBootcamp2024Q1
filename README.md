@@ -23,7 +23,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 # Videos
 
 <details>
-<summary>Lecture weeks 🔳</summary>
+<summary>Lecture weeks ✔️</summary>
 <details>
 <summary>First week ✔️</summary>
  
