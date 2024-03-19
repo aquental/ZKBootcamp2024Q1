@@ -78,9 +78,10 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 <details>
 <summary>Workshop week 🔳</summary>
+ 
 > ### [Mar 18 - Tellor](https://youtu.be/ubgsJsNWviY)
 
-> ### [Mar 19 - ??]()
+> ### [Mar 19 - Mina]()
 
 > ### [Mar 20 - ??]()
 
@@ -90,5 +91,13 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 <details>
 <summary>Project week 🔳</summary>
-25/03/2024 → 28/03/2024
+ 
+> ### [Mar 25 - ?]()
+
+> ### [Mar 26 - ?]()
+
+> ### [Mar 27 - ?]()
+
+> ### [Mar 28 - ?]()
+
 </details>
