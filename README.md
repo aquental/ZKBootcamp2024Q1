@@ -78,7 +78,14 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 <details>
 <summary>Workshop week 🔳</summary>
-18/03/2024 → 21/03/2024
+> ### [Mar 18 - Tellor](https://youtu.be/ubgsJsNWviY)
+
+> ### [Mar 19 - ??]()
+
+> ### [Mar 20 - ??]()
+
+> ### [Mar 21 - ??]()
+
 </details>
 
 <details>
