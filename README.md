@@ -83,21 +83,21 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 > ### [Mar 19 - Mina](https://youtu.be/TThVgoD70dk)
 
-> ### [Mar 20 - prep]()
+> ### [Mar 20 - ideation](https://youtu.be/n7XJty08AY4)
 
-> ### [Mar 21 - prep]()
+> ### [Mar 21 - ideation]()
 
 </details>
 
 <details>
 <summary>Project week 🔳</summary>
  
-> ### [Mar 25 - ?]()
+> ### [Mar 25 - project]()
 
-> ### [Mar 26 - ?]()
+> ### [Mar 26 - project]()
 
-> ### [Mar 27 - ?]()
+> ### [Mar 27 - project]()
 
-> ### [Mar 28 - ?]()
+> ### [Mar 28 - project]()
 
 </details>
