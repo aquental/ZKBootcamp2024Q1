@@ -81,11 +81,11 @@ Encode Club - ZK Bootcamp 2024 Q1
  
 > ### [Mar 18 - Tellor](https://youtu.be/ubgsJsNWviY)
 
-> ### [Mar 19 - Mina]()
+> ### [Mar 19 - Mina](https://youtu.be/TThVgoD70dk)
 
-> ### [Mar 20 - ??]()
+> ### [Mar 20 - prep]()
 
-> ### [Mar 21 - ??]()
+> ### [Mar 21 - prep]()
 
 </details>
 
