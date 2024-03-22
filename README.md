@@ -77,7 +77,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 </details>
 
 <details>
-<summary>Workshop week 🔳</summary>
+<summary>Workshop week ✔️</summary>
  
 > ### [Mar 18 - Tellor](https://youtu.be/ubgsJsNWviY)
 
@@ -85,7 +85,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 
 > ### [Mar 20 - ideation](https://youtu.be/n7XJty08AY4)
 
-> ### [Mar 21 - ideation]()
+> ### [Mar 21 - presenting ideas](https://youtu.be/yKvov2aph6A)
 
 </details>
 
