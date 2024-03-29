@@ -90,14 +90,8 @@ Encode Club - ZK Bootcamp 2024 Q1
 </details>
 
 <details>
-<summary>Project week 🔳</summary>
+<summary>Project week ✔️</summary>
  
-> ### [Mar 25 - project]()
-
-> ### [Mar 26 - project]()
-
-> ### [Mar 27 - project]()
-
-> ### [Mar 28 - project]()
+> ### [Mar 28 - Presenting final projects](https://youtu.be/ngD1on4PFVI)
 
 </details>
