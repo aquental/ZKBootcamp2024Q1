@@ -6,15 +6,11 @@
 
 ---
 
-### [Zokrates](https://github.com/Zokrates/ZoKrates)
+### [Zokrates](https://github.com/Zokrates/ZoKrates) (toolbox for zkSNARKs on Ethereum)
 
-[Creating simple zero-knowledge verifier contract with ZoKrates (0.7.13) solidity (0.8.0)](https://andresaaap.medium.com/creating-simple-zero-knowledge-verifier-contract-with-zokrates-0-7-13-solidity-0-8-0-666518e1f411)
-
-## [Zokrates](https://zokrates.github.io/)
-
-### [Getting started](https://zokrates.github.io/gettingstarted.html)
-
-### [Zokrates playground](https://play.zokrat.es/)
+> [Creating simple zero-knowledge verifier contract with ZoKrates (0.7.13) solidity (0.8.0)](https://andresaaap.medium.com/creating-simple-zero-knowledge-verifier-contract-with-zokrates-0-7-13-solidity-0-8-0-666518e1f411)
+> ### [Getting started](https://zokrates.github.io/gettingstarted.html)
+> ### [Zokrates playground](https://play.zokrat.es/)
 
 ```zokrates
 //Example from Zokrates
