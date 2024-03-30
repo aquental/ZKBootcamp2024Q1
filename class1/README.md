@@ -10,6 +10,14 @@
 > 
 ---
 
+### Main applications of Zero Knowledge
+
+- obscure data
+- condense data
+- provide data
+
+---
+
 # **Home work** for _class 1_
 
 ## Maths Introduction
