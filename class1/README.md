@@ -1,6 +1,11 @@
 # Class 1 - Feb 19
 
-[pdf file](./Lesson1.pdf)
+[Lesson 1](./Lesson1.pdf)
+
+[Homework 1](./Homework1.pdf)
+
+> [Zero Knowledge Cryptography Introduction - Solidity Fridays](https://www.youtube.com/watch?v=Wne3O9P4jkw&t=99s)
+> 
 ---
 
 # **Home work** for _class 1_
