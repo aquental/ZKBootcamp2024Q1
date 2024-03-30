@@ -4,6 +4,8 @@
 
 [Homework 1](./Homework1.pdf)
 
+### Links
+
 > [Zero Knowledge Cryptography Introduction - Solidity Fridays](https://www.youtube.com/watch?v=Wne3O9P4jkw)
 > 
 ---
