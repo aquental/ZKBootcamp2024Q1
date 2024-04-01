@@ -8,3 +8,7 @@
 
 ## Proposal
 [Group ideas](./ideas.pdf)
+
+## Carry on
+Notes on studying L2 zkRollups
+[]()
