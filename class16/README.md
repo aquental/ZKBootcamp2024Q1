@@ -8,7 +8,9 @@
 
 ### links
 
-[Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://www.youtube.com/watch?v=W9iZMLObtUk)
+> [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://www.youtube.com/watch?v=W9iZMLObtUk)
+> 
+> [GitHub Repo](https://github.com/Daniel-Szego/Zeroknowledgeworkshop)
 
 ---
 
