@@ -6,6 +6,10 @@
 
 [Homework](./Homework16.pdf)
 
+### links
+
+[Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://www.youtube.com/watch?v=W9iZMLObtUk)
+
 ---
 
 # **_Homework 16_**
