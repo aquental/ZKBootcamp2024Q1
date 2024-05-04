@@ -99,3 +99,7 @@ Encode Club - ZK Bootcamp 2024 Q1
 > ### [Mar 28 - Presenting final projects](https://youtu.be/ngD1on4PFVI)
 
 </details>
+
+# Certificate
+
+[OpenSea](https://opensea.io/assets/matic/0xdBf2138593aeC61d55d86E80b8ed86D7b9ba51F5/10888)
